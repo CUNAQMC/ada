@@ -1,0 +1,9 @@
+{
+    Base:{
+        url:'www.google.com'
+
+    } 
+    Dashboard:{
+        relativeURL: "https://www.google.com/intl/en/about/"
+    }
+}
